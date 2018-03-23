@@ -5,16 +5,6 @@ import './App.css'
 
 class App extends Component {
   render() {
-    let t = 2
-    t = 3
-    if (t) {
-      if (t) {
-        if (t) {
-          if (t) {
-          }
-        }
-      }
-    }
     return (
       <div className="App">
         <header className="App-header">
