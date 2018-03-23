@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "msjsdiag.debugger-for-chrome",
+    "2gua.rainbow-brackets",
+    "pflannery.vscode-versionlen",
+    "jpoissonnier.vscode-styled-components",
+    "oderwat.indent-rainbow",
+    "wix.vscode-import-cost",
+    "eamodio.gitlens",
+    "PeterJausovec.vscode-docker"
+  ]
+}
