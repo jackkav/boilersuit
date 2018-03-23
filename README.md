@@ -2,11 +2,11 @@
 
 ## Decisions to make
 
-* [x] Linting
 * [x] Auto-formatting
 * [x] Precommit linting
 * [x] Extension suggestions
 * [x] Debugging
+* [x] Linting
 * [ ] CSS
 * [ ] Folder structure
 * [ ] Production dockerfile
