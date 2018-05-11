@@ -35,13 +35,9 @@ create-react-app based framework
 * [ ] Optimistic CRUD (appointments?)
 * [ ] Component, functional tests
 * [ ] Data fetching from server
-* [x] Pub/Sub
+* [x] Pub/Sub jackkav/simple-subscription-client jackkav/simple-subscription-server
 * [ ] Storybook
 * [ ] Production Staging Drone config
 * [ ] ECharts
 * [ ] Login and permissions
 * [ ] Reducing bundle size, code splitting, tree shaking
-
-## Code Review Mechanisms
-
-https://github.com/jsoendermann/MongoStyleGuide
