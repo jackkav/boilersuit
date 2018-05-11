@@ -26,16 +26,18 @@ create-react-app based framework
 * [ ] Folder structure
 * [ ] Versioning changelog
 * [ ] Code reviews
+* [ ] Commit messages
+* [ ] PWA
 
 ## Examples to write
 
-* [ ] Storybook
 * [ ] Notifications, with service workers that don't over cache
-* [ ] Production Staging Drone config
-* [ ] CRUD
+* [ ] Optimistic CRUD (appointments?)
 * [ ] Component, functional tests
-* [ ] Data fetching
-* [ ] Pub/Sub
+* [ ] Data fetching from server
+* [x] Pub/Sub
+* [ ] Storybook
+* [ ] Production Staging Drone config
 * [ ] ECharts
 * [ ] Login and permissions
 * [ ] Reducing bundle size, code splitting, tree shaking
